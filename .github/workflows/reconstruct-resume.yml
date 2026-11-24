@@ -31,3 +31,5 @@ jobs:
           git add assets/Juhi_Joshi_AI_Product_Resume.pdf
           git commit -m "Add exact finalized resume PDF"
           git push
+
+# Triggered after all resume chunks were uploaded.
