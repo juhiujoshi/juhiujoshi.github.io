@@ -33,3 +33,5 @@ jobs:
           git push
 
 # Triggered after all resume chunks were uploaded.
+
+# All six transfer chunks are now present.
